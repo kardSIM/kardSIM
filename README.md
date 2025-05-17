@@ -1,10 +1,5 @@
 ## Hi there 👋
-🐍 Languages     | Python, Rust, Linux BASH
-🧠 ML & AI       | PyTorch, Scikit-learn, Transformers, Diffusers, LangChain, MCP protocol, 
-                 | LlamaIndex, Chromadb, OpenCV, Gymnasium, Stable Baselines
-📊 Data          | Pandas, Datasets, PySpark, NeuralForecast, Optuna
-☁️ Infrastructure | Docker, Kubernetes, Azure
-🔌 Embedded      | Arduino, Raspberry Pi, ROS
+
 <!--
 **kardSIM/kardSIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
